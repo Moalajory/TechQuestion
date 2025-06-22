@@ -34,10 +34,10 @@ This project practically applies principles of Computer Information Systems, inc
 ---
 
 ## Screenshots
+![Screenshot 1](./TechQuestions/WhatsApp_Image_2025-06-22_10.49.11_PM.jpeg)  
+![Screenshot 2](./TechQuestions/WhatsApp_Image_2025-06-22_10.49.58_PM.jpeg)  
+![Screenshot 3](./TechQuestions/WhatsApp_Image_2025-06-22_10.51.03_PM.jpeg)
 
-TechQuestion/TechQuestions/WhatsApp Image 2025-06-22 at 10.49.11 PM.jpeg
-TechQuestion/TechQuestions/WhatsApp Image 2025-06-22 at 10.49.58 PM.jpeg
-TechQuestion/TechQuestions/WhatsApp Image 2025-06-22 at 10.51.03 PM.jpeg
 
 ---
 
